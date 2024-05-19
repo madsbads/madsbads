@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @madsbads
-- 👀 I’m interested in the creative arts
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on TBD
-- 📫 How to reach me twitter: @maddienevans
+- 📫 How to reach me: madnevans@gmail.com
 
 <!---
 madsbads/madsbads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
